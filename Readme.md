@@ -1,7 +1,5 @@
 1. Initial commit
 2. First Master commit
 3. Second Master commit
-4. Third Master commit
-5. Fourth Master commit
-6. Fifth Master commit
-7. Six Master commit
+4. First Branch2 commit
+5. Fourth Branch1 commit
